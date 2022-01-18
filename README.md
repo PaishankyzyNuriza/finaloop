@@ -14,6 +14,9 @@ Enjoy by using it. It has an authorization page. Login and signup page. Here the
 
 ![image1](https://user-images.githubusercontent.com/73305001/149914649-a392fa2c-b6d7-4d9b-8b87-e5695f6a27b1.png)
 
+## Tutorial for fuits project
+https://1drv.ms/w/s!AhnsShv1eq3HgUVS6sNp-7_riepI?e=F9J0Oj
+
 ## 10 Text feedback:
 1. Alidin Abylkasym uulu
 This fruits shop is created by Nuriza and Alinabakish. It was awesome, because it will give you opportunity to do shop online while you are sitting in your home. And, it has login and sign-up page. This was absolutely great. Because, each customer write their emails and passwords. I liked this project and wish you all the best:)
@@ -28,7 +31,8 @@ Hello . I will criticize the work, done by Nuriza ana alinabakish. And I tried t
 9.  Aktan Kubatbekov.  Fruits shop or online shop is going to be popular in our days. And for programmers it would be the best app to practice and be able to do same projects. And, I appreciate your work. I liked that your project is helpful and understandable.
 10. Alina Abdumanapova. I think that it is great to be able to do like this peoject. This project is motivated me to go programming facultet. And , I really thankful that you have showed to me this great project. I really liked interface. And, I hardly recommend to others. Wish you good luck. And , I look forward more helpful projects.
 
-Video on youtube inside github:
+## Video on youtube inside github:
+https://youtu.be/647xnSA09PA
 
 https://user-images.githubusercontent.com/73305001/149920070-80447632-3f9d-4d9c-ac9d-d6b76e97731c.mp4
 

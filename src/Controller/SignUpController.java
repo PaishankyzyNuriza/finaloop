@@ -50,7 +50,7 @@ public class SignUpController {
 
             if (!username.equals("") || !email.equals("") || !password.equals("")){
                 int status = statement.executeUpdate("insert into user (username,email,password)" +
-                        " values('" + username + "','" + email + "','" + password + "')");
+                        " values('" + Username + "','" + Email + "','" + Password + "')");
 
 
                 if (status > 0) {

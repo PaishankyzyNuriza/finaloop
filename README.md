@@ -15,7 +15,7 @@ Enjoy by using it. It has an authorization page. Login and signup page. Here the
 ![image1](https://user-images.githubusercontent.com/73305001/149914649-a392fa2c-b6d7-4d9b-8b87-e5695f6a27b1.png)
 
 ## Tutorial for fuits project
-https://1drv.ms/w/s!AhnsShv1eq3HgUVS6sNp-7_riepI?e=F9J0Oj
+https://1drv.ms/w/s!AhnsShv1eq3HgUVvD14A7POX-EiJ?e=oD03WO
 
 ## 10 Text feedback:
 1. Alidin Abylkasym uulu
